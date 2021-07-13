@@ -1,0 +1,32 @@
+body{
+    background-image: linear-gradient(to bottom , rgb(0, 0, 0) , rgb(6, 136, 184));
+    background-repeat: no-repeat;
+    height: 100vh;
+    padding: 0%;
+    margin: 0%;
+}
+.container{
+    text-align: center;
+    color: whitesmoke;
+    width: 60%;
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 3% 0px;
+}
+#pin_div{
+    margin-top: 10%;
+    display: none;
+}
+.input{
+    margin: 0 auto;
+    width: 40% !important;
+}
+.btn-group1{
+    margin: 30px;
+}
+.btn-group1 div {
+    margin: 20px;
+}
+.button{
+    width: 250px !important;
+}
